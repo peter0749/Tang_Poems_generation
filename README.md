@@ -1,6 +1,10 @@
 # Tang_Poems_generation
 唐詩煉成 使用 WGAN-div
 
+資料來源：
+
+[https://github.com/chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
+
 ### samples
 
 #### samples 1:
