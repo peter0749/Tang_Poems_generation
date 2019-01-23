@@ -9,7 +9,7 @@
 
 #### samples 1:
 
-不限制格律
+不限制格律 (wgan-div)
 
 batch size=64, 13000 次迭代:
 
@@ -26,9 +26,9 @@ batch size=64, 13000 次迭代:
 一聞公早落，池月得無去。花香人色上，無欲遠東石。
 ```
 
-#### samples 1:
+#### samples 2:
 
-限制格律（平仄）
+限制格律（平仄, strain2poem-wgan-div）
 
 batch size=64, 18000 次迭代:
 
