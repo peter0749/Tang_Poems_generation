@@ -1,6 +1,14 @@
 # Tang_Poems_generation
 唐詩煉成 使用 WGAN-div
 
+### Playground
+
+Kaggle kernels
+
+[strain2poem](https://www.kaggle.com/peter0749/strain2poem)
+
+[wgan-div](https://www.kaggle.com/peter0749/poemwgan-div)
+
 資料來源：
 
 [https://github.com/chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
