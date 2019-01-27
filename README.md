@@ -9,6 +9,8 @@ Kaggle kernels
 
 [wgan-div](https://www.kaggle.com/peter0749/poemwgan-div)
 
+[strain2poem-七言](https://www.kaggle.com/peter0749/strain2poem-7words)
+
 資料來源：
 
 [https://github.com/chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
